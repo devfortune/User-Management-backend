@@ -1,4 +1,4 @@
-* Secure platform for managing user accounts.
+* Secure backend for managing user accounts.
 * Utilizes Java, Spring Boot, Spring Security, and MySQL.
 * Supports CRUD operations for comprehensive user data management.
 * Enables access and modification of details like profile images and last login dates.
